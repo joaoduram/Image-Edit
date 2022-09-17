@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=OpcoesDeEdicao
+comment0.text=\r\n\ Escreva\ a\ descri\u00C3\u00A7\u00C3\u00A3o\ da\ classe\ OpcoesDeEdicao\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00C3\u00BAmero\ de\ vers\u00C3\u00A3o\ ou\ data)\r\n
+comment1.params=image
+comment1.target=void\ transformaCinza(java.awt.image.BufferedImage)
+comment2.params=image
+comment2.target=void\ transformaPeB(java.awt.image.BufferedImage)
+comment3.params=image
+comment3.target=void\ transformaNegativo(java.awt.image.BufferedImage)
+comment4.params=image
+comment4.target=void\ tranformaIlumina(java.awt.image.BufferedImage)
+comment5.params=image
+comment5.target=void\ frameImage(java.awt.image.BufferedImage)
+numComments=6
